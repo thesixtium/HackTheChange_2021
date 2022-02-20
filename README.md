@@ -13,3 +13,9 @@ The API's were all made in python, whereas the rest of the project (not included
 
 ## Awards
 This project won a prize for the best use of cloud computing at the Hack The Change hackathon. More on how cloud computing was used for this project can be found in the powerpoint.
+
+## Contact
+[My Website](https://thesixtium.github.io/)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
